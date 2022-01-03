@@ -1,0 +1,48 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+.mb-1 {
+  margin-bottom: 8px;
+}
+.mb-2 {
+  margin-bottom: 16px;
+}
+.hb-card {
+  width: 30px;
+  height: 30px;
+  background: "#fff";
+  margin: 0 auto;
+}
+.hb-picker-card {
+  width: 54px;
+  height: 54px;
+  background: "#fff";
+  cursor: pointer;
+}
+.m-0 {
+  margin: 0;
+}
+.btn-custom {
+  color: #5c5b5b;
+}
+.btn-custom:hover {
+  background-color: rgba(98, 93, 245, 0.3);
+  color: #6670ed;
+}
+.btn-active-bg {
+  background-color: rgba(98, 93, 245, 0.3);
+  color: #6670ed;
+}

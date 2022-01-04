@@ -106,6 +106,3 @@ const useNewHabit = () => {
     }
 }
 
-
-
-//commit
